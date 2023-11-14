@@ -1,0 +1,8 @@
+
+started scrapping	2023-11-14 20:36:04.330334
+
+completed scrapping	2023-11-14 20:36:06.028289
+
+converting to EUR, GBP, INR	2023-11-14 20:36:06.034718
+
+conversion complete	2023-11-14 20:36:06.037140
