@@ -1,8 +1,42 @@
 
-started scrapping	2023-11-14 20:36:04.330334
+started scrapping	2023-11-14 22:16:40.378942
 
-completed scrapping	2023-11-14 20:36:06.028289
+completed scrapping	2023-11-14 22:16:41.306722
 
-converting to EUR, GBP, INR	2023-11-14 20:36:06.034718
+converting to EUR, GBP, INR	2023-11-14 22:16:41.307353
 
-conversion complete	2023-11-14 20:36:06.037140
+conversion complete	2023-11-14 22:16:41.311168
+
+loading to csv	2023-11-14 22:16:41.320013
+
+Completed loading  to csv	2023-11-14 22:16:41.323220
+
+loading to db	2023-11-14 22:16:41.323800
+
+Completed loading  to db	2023-11-14 22:16:41.341673
+
+running queris	2023-11-14 22:16:41.342541
+
+Queries complete	2023-11-14 22:16:41.354603
+
+started scrapping	2023-11-14 22:23:31.716894
+
+started scrapping	2023-11-14 22:24:13.507518
+
+completed scrapping	2023-11-14 22:24:14.460151
+
+converting to EUR, GBP, INR	2023-11-14 22:24:14.460707
+
+conversion complete	2023-11-14 22:24:14.465171
+
+loading to csv	2023-11-14 22:24:14.473827
+
+Completed loading  to csv	2023-11-14 22:24:14.477288
+
+loading to db	2023-11-14 22:24:14.477859
+
+Completed loading  to db	2023-11-14 22:24:14.490318
+
+running queris	2023-11-14 22:24:14.490938
+
+Queries complete	2023-11-14 22:24:14.505294
